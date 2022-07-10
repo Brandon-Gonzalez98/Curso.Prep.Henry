@@ -1,0 +1,4 @@
+// for: es uno de los dos bucles que existen para evaluar una y otra vez expresiones hasta que se se devuelva lo que estamos buscando
+// &&: es un operador logico que significa "y" este evaluara las expresiones y devolvera un resultado 
+// ||: otro operador logico cuyo significado en español es "o" y evaluara si la expresion es verdadera arrogandome un resultado buleano
+// !: operador logico "not" o "no", este devolvera un valor opuesto del que se le pasa
